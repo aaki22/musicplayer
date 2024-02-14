@@ -1,0 +1,1 @@
+import App from "d:/projects/music_player/frontend/src/components/App";
